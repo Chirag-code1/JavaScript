@@ -1,11 +1,16 @@
 //--------------------------------ARRAYS-----------------------------------------------------
 
 var myFriends=["chirag", 19, "male", "true"]; //just writing square brackets is enough to tell js that you r using array.
+var bestFriend=["Shnaya", 19, "female", "false"];
 
 //Traversing an Array:
 
 for(let i=0;i<myFriends.length;i++){
     console.log(myFriends[i]);
+}
+
+for(let i=0;i<bestFriend.length;i++){
+    console.log(bestFriend[i]);
 }
 
 // Finding length of an array: array_name.length; 

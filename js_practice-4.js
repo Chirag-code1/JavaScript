@@ -15,3 +15,8 @@ for(let i=0;i<bestFriend.length;i++){
 
 // Finding length of an array: array_name.length; 
 // and this is not a fuction coze it doesnt have (). Rather it is a property.
+
+// --using with  template literals.
+for(let i=0;i<bestFriend.length;i++){
+    console.log(`${myFriends[i]} and ${bestFriend[i]}`);
+}

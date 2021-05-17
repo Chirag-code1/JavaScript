@@ -19,7 +19,7 @@
 
 // function biodata(){
 //     var myFirstName= "chirag";
-//     console.log(myFirstName); //op-> chirag
+//     console.log(myFirstName); //output-> chirag
 
 //     if(true){
 //         let myLastName="Arora";

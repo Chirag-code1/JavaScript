@@ -1,4 +1,5 @@
 // console.log("Hello World");
+// or for alerts: window.alert("Hello World");
 
 // var myName ="chirag";
 // var $myAge=19;

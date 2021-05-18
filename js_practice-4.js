@@ -31,3 +31,9 @@ for(elements in myFriends){
 // 2
 // 3
 
+// for-of loop =/> returns the value of elements of array
+for(elements of myFriends){
+       console.log(elements);
+}
+
+

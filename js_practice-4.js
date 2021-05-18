@@ -20,4 +20,14 @@ for(let i=0;i<bestFriend.length;i++){
     console.log(`${myFriends[i]} and ${bestFriend[i]}`);
 }
 
+// for-in loop =/> returns the index of elements of array
+
+for(elements in myFriends){
+       console.log(elements);
+}
+//output==> 
+// 0
+// 1
+// 2
+// 3
 

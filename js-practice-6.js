@@ -83,11 +83,11 @@
 // console.log(newArray); OP=>[ false, false, false, true, true ]
 
 // let newArray = arr.map((curEle, index, arr)=>{
-//     return `index ${index} has value of ${curEle} in array of ${arr} `
+//     return `index ${index} has value of ${curEle} in array of ${arr}`
 // })
 //  console.log(newArray);
 
 //  let newArrayfor = arr.forEach((curEle, index, arr)=>{
-//     return `index ${index} has value of ${curEle} in array of ${arr} `
+//     return `index ${index} has value of ${curEle} in array of ${arr}`
 // })
 //  console.log(newArrayfor); //undefined. coze it mutates the original array without giving new array.

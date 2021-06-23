@@ -86,6 +86,7 @@
 // console.log(myName+" Khurana"+" Kapoor");
 
 // console.log(3**3); // 3*3*3
+
 // console.log(3**5); //3*3*3*3*3
 
 //Ques: Swap two variables without using third Variable:

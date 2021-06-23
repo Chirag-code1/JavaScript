@@ -94,7 +94,7 @@
 //     console.log(i);
 // }
 
-//Printing tables of given num x:
+//Printing tables of given num x:-
 // var x=2,i=1;
 // for(i=1;i<=10;i++){
 //     console.log("2 X "+i+" = "+x*i);

@@ -17,7 +17,8 @@
 // myName="chigz";
 // console.log(myName); //error: coze value of 'const' cannot be changed once declared.
 
-// function biodata(){
+// function biodata()
+//{
 //     var myFirstName= "chirag";
 //     console.log(myFirstName); //output-> chirag
 

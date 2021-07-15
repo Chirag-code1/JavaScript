@@ -24,7 +24,7 @@ function primeCount(input) {
             }
         }
       primeCount = count;
-      //printf("\nTotal number of Prime-Numbers from 2 to %d are:\t%d",input,  count);
+      //in C lang -> printf("\nTotal number of Prime-Numbers from 2 to %d are:\t%d",input,  count);
     }
 	return primeCount;
 }

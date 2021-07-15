@@ -32,7 +32,7 @@ namasteBtn.addEventListener("click", inputMsg);
  function inputMsg() {
         let name = prompt('Enter name of student');
         let rollno = prompt('Enter RollNo. of student');
-        namasteBtn.textContent = "Roll no.="+rollno+", name- "+name;
+        namasteBtn.textContent = "Roll no.="+rollno+" & name- "+name;
  }
     </script>
 </body>

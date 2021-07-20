@@ -1,0 +1,6 @@
+function shallowCopy(input) {
+  const map1 = input.map(function(x){
+    return x;
+  })
+  return map1;
+}
